@@ -1,0 +1,44 @@
+{
+  "question": [
+    "Q1. A fair coin is tossed 10 times.\n\t  What is the mean number of heads?",
+    "Q2. The laws of physics tell us that energy is:",
+    "Q3. Which organ of human body never rests?",
+    "Q4. What does the Internet prefix WWW stand for?",
+	"Q5. Who was the first prime minister of Malaysia?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+	4
+  ],
+  "options": [
+
+    ["5",
+      "7",
+      "3",
+      "15"
+    ],
+    ["Concerned",
+      "Conserved",
+      "Constant",
+      "Contained"
+    ],
+    ["Liver",
+      "Pancreas",
+      "Heart",
+      "Eyes"
+    ],
+    ["World Wage War",
+      "World Wide Web",
+      "World Wicked Witch",
+      "World Width Wonder"
+    ],
+	["Mahathir Mohamad",
+      "Abdul Razak Hussein",
+      "Abdullah Ahmad Badawi",
+      "Tunku Abdul Rahman"
+    ]
+  ]
+}
